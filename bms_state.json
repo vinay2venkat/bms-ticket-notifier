@@ -1,5 +1,117 @@
 {
   "shows": {
+    "RAKK|1978|20260720|Premium": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "07:20 PM",
+      "date": "20260720",
+      "cat": "Premium",
+      "price": "190.00",
+      "status": "3"
+    },
+    "RAKK|1978|20260720|Elite": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "07:20 PM",
+      "date": "20260720",
+      "cat": "Elite",
+      "price": "150.00",
+      "status": "3"
+    },
+    "CBMC|9671|20260720|NORMAL": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "11:00 AM",
+      "date": "20260720",
+      "cat": "NORMAL",
+      "price": "61.74",
+      "status": "2"
+    },
+    "CBMC|9671|20260720|EXECUTIVE": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "11:00 AM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "CBMC|9603|20260720|NORMAL": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "01:00 PM",
+      "date": "20260720",
+      "cat": "NORMAL",
+      "price": "61.74",
+      "status": "2"
+    },
+    "CBMC|9603|20260720|EXECUTIVE": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "01:00 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "CBMC|9604|20260720|NORMAL": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "03:30 PM",
+      "date": "20260720",
+      "cat": "NORMAL",
+      "price": "61.74",
+      "status": "0"
+    },
+    "CBMC|9604|20260720|EXECUTIVE": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "03:30 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "CBMC|9673|20260720|NORMAL": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "06:00 PM",
+      "date": "20260720",
+      "cat": "NORMAL",
+      "price": "61.74",
+      "status": "2"
+    },
+    "CBMC|9673|20260720|EXECUTIVE": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "06:00 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "CBMC|9605|20260720|NORMAL": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "07:00 PM",
+      "date": "20260720",
+      "cat": "NORMAL",
+      "price": "61.74",
+      "status": "0"
+    },
+    "CBMC|9605|20260720|EXECUTIVE": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "07:00 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "CBMC|9606|20260720|NORMAL": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "10:30 PM",
+      "date": "20260720",
+      "cat": "NORMAL",
+      "price": "61.74",
+      "status": "0"
+    },
+    "CBMC|9606|20260720|EXECUTIVE": {
+      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
+      "time": "10:30 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "210.98",
+      "status": "3"
+    },
     "AGSM|54452|20260720|DIAMOND": {
       "venue": "AGS Cinemas: Maduravoyal",
       "time": "12:00 PM",
@@ -240,102 +352,6 @@
       "price": "60.00",
       "status": "0"
     },
-    "CBMC|9671|20260720|NORMAL": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "11:00 AM",
-      "date": "20260720",
-      "cat": "NORMAL",
-      "price": "61.74",
-      "status": "2"
-    },
-    "CBMC|9671|20260720|EXECUTIVE": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "11:00 AM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "CBMC|9603|20260720|NORMAL": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "01:00 PM",
-      "date": "20260720",
-      "cat": "NORMAL",
-      "price": "61.74",
-      "status": "2"
-    },
-    "CBMC|9603|20260720|EXECUTIVE": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "01:00 PM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "CBMC|9604|20260720|NORMAL": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "03:30 PM",
-      "date": "20260720",
-      "cat": "NORMAL",
-      "price": "61.74",
-      "status": "0"
-    },
-    "CBMC|9604|20260720|EXECUTIVE": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "03:30 PM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "CBMC|9673|20260720|NORMAL": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "06:00 PM",
-      "date": "20260720",
-      "cat": "NORMAL",
-      "price": "61.74",
-      "status": "2"
-    },
-    "CBMC|9673|20260720|EXECUTIVE": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "06:00 PM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "CBMC|9605|20260720|NORMAL": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "07:00 PM",
-      "date": "20260720",
-      "cat": "NORMAL",
-      "price": "61.74",
-      "status": "0"
-    },
-    "CBMC|9605|20260720|EXECUTIVE": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "07:00 PM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "210.98",
-      "status": "3"
-    },
-    "CBMC|9606|20260720|NORMAL": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "10:30 PM",
-      "date": "20260720",
-      "cat": "NORMAL",
-      "price": "61.74",
-      "status": "0"
-    },
-    "CBMC|9606|20260720|EXECUTIVE": {
-      "venue": "Cinepolis: BSR Mall, OMR, Thoraipakkam",
-      "time": "10:30 PM",
-      "date": "20260720",
-      "cat": "EXECUTIVE",
-      "price": "210.98",
-      "status": "3"
-    },
     "ACTN|44174|20260720|DIAMOND": {
       "venue": "AGS Cinemas: T. Nagar",
       "time": "11:40 AM",
@@ -480,6 +496,22 @@
       "price": "61.74",
       "status": "3"
     },
+    "PCAN|41725|20260720|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "06:45 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PCAN|41725|20260720|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "06:45 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
+    },
     "PCAN|41564|20260720|PRIME": {
       "venue": "PVR: VR Chennai, Anna Nagar",
       "time": "07:15 PM",
@@ -491,6 +523,38 @@
     "PCAN|41564|20260720|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
       "time": "07:15 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PCAN|41705|20260720|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "10:10 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PCAN|41705|20260720|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "10:10 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PCAN|41726|20260720|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "10:20 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PCAN|41726|20260720|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "10:20 PM",
       "date": "20260720",
       "cat": "CLASSIC",
       "price": "61.74",
@@ -512,6 +576,22 @@
       "price": "61.74",
       "status": "3"
     },
+    "PVHR|39427|20260720|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVHR|39427|20260720|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "11:30 AM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
+    },
     "PVHR|39295|20260720|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
       "time": "12:00 PM",
@@ -527,6 +607,22 @@
       "cat": "CLASSIC",
       "price": "61.74",
       "status": "2"
+    },
+    "PVHR|39416|20260720|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "02:50 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVHR|39416|20260720|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "02:50 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
     },
     "PVHR|39296|20260720|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -544,6 +640,22 @@
       "price": "61.74",
       "status": "2"
     },
+    "PVHR|39429|20260720|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "06:30 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVHR|39429|20260720|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "06:30 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
+    },
     "PVHR|39297|20260720|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
       "time": "07:15 PM",
@@ -559,6 +671,22 @@
       "cat": "CLASSIC",
       "price": "61.74",
       "status": "1"
+    },
+    "PVHR|39377|20260720|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "10:00 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVHR|39377|20260720|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "10:00 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
     },
     "PVHR|39298|20260720|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -671,6 +799,198 @@
       "cat": "PREMIERE",
       "price": "66.74",
       "status": "2"
+    },
+    "INTO|87859|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "12:05 PM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87859|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "12:05 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "3"
+    },
+    "INTO|87860|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:40 PM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87860|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "03:40 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "3"
+    },
+    "INTO|87861|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "07:15 PM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87861|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "07:15 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "3"
+    },
+    "INTO|87862|20260720|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "10:50 PM",
+      "date": "20260720",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|87862|20260720|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "10:50 PM",
+      "date": "20260720",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PABC|20247|20260720|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "06:20 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PABC|20247|20260720|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "06:20 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PABC|20248|20260720|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "10:00 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PABC|20248|20260720|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "10:00 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PGMV|20744|20260720|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "12:00 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGMV|20744|20260720|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "12:00 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PGMV|20692|20260720|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "03:50 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGMV|20692|20260720|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "03:50 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PGMV|20746|20260720|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "06:45 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGMV|20746|20260720|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "06:45 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PGMV|20721|20260720|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:45 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGMV|20721|20260720|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "09:45 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "0"
+    },
+    "PGMV|20747|20260720|PRIME": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "10:25 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PGMV|20747|20260720|CLASSIC": {
+      "venue": "PVR: Grand Mall, Velachery",
+      "time": "10:25 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
+    },
+    "PSKL|21848|20260720|PRIME": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "06:40 PM",
+      "date": "20260720",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PSKL|21848|20260720|CLASSIC": {
+      "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",
+      "time": "06:40 PM",
+      "date": "20260720",
+      "cat": "CLASSIC",
+      "price": "66.74",
+      "status": "3"
     },
     "PSKL|21849|20260720|PRIME": {
       "venue": "PVR: SKLS Galaxy Mall, Red Hills Chennai",

@@ -1,85 +1,5 @@
 {
   "shows": {
-    "INPR|63706|20260727|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:10 AM",
-      "date": "20260727",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
-    },
-    "INPR|63707|20260727|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "12:45 PM",
-      "date": "20260727",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
-    },
-    "INPR|63708|20260727|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "04:10 PM",
-      "date": "20260727",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "1"
-    },
-    "INPR|63709|20260727|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:40 PM",
-      "date": "20260727",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "1"
-    },
-    "INPR|63710|20260727|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:15 PM",
-      "date": "20260727",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
-    },
-    "PVPZ|35855|20260727|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "09:00 AM",
-      "date": "20260727",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
-    },
-    "PVPZ|35856|20260727|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:30 PM",
-      "date": "20260727",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
-    },
-    "PVPZ|35857|20260727|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "04:05 PM",
-      "date": "20260727",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
-    },
-    "PVPZ|35858|20260727|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "07:40 PM",
-      "date": "20260727",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "1"
-    },
-    "PVPZ|35859|20260727|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "11:15 PM",
-      "date": "20260727",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
-    },
     "INPR|63711|20260728|ELITE": {
       "venue": "INOX: LUXE Phoenix Market City, Velachery",
       "time": "09:10 AM",
@@ -142,7 +62,7 @@
       "date": "20260728",
       "cat": "ELITE",
       "price": "508.34",
-      "status": "3"
+      "status": "2"
     },
     "PVPZ|35897|20260728|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -150,7 +70,7 @@
       "date": "20260728",
       "cat": "ELITE",
       "price": "508.34",
-      "status": "3"
+      "status": "2"
     },
     "PVPZ|35898|20260728|ELITE": {
       "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
@@ -158,14 +78,54 @@
       "date": "20260728",
       "cat": "ELITE",
       "price": "508.34",
-      "status": "3"
+      "status": "2"
+    },
+    "INPR|63716|20260729|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "09:10 AM",
+      "date": "20260729",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "2"
+    },
+    "INPR|63717|20260729|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "12:45 PM",
+      "date": "20260729",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "2"
+    },
+    "INPR|63718|20260729|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "04:10 PM",
+      "date": "20260729",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "2"
+    },
+    "INPR|63719|20260729|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "07:40 PM",
+      "date": "20260729",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "1"
+    },
+    "INPR|63720|20260729|ELITE": {
+      "venue": "INOX: LUXE Phoenix Market City, Velachery",
+      "time": "11:15 PM",
+      "date": "20260729",
+      "cat": "ELITE",
+      "price": "508.34",
+      "status": "2"
     }
   },
   "dates": {
-    "20260725": "AVAILABLE",
+    "20260725": "BOOKABLE",
     "20260726": "AVAILABLE",
     "20260727": "AVAILABLE",
-    "20260728": "BOOKABLE",
+    "20260728": "AVAILABLE",
     "20260729": "AVAILABLE",
     "20260730": "NOT_OPEN",
     "20260731": "NOT_OPEN"

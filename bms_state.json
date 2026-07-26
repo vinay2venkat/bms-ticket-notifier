@@ -1,93 +1,133 @@
 {
   "shows": {
-    "INPR|63711|20260728|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "09:10 AM",
-      "date": "20260728",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
-    },
-    "INPR|63712|20260728|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "12:45 PM",
-      "date": "20260728",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
-    },
-    "INPR|63713|20260728|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "04:10 PM",
-      "date": "20260728",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
-    },
-    "INPR|63714|20260728|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "07:40 PM",
-      "date": "20260728",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "1"
-    },
-    "INPR|63715|20260728|ELITE": {
-      "venue": "INOX: LUXE Phoenix Market City, Velachery",
-      "time": "11:15 PM",
-      "date": "20260728",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
-    },
-    "PVPZ|35894|20260728|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "09:00 AM",
-      "date": "20260728",
-      "cat": "ELITE",
-      "price": "508.34",
+    "MAYJ|235463|20260730|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "11:00 AM",
+      "date": "20260730",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
       "status": "3"
     },
-    "PVPZ|35895|20260728|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "12:30 PM",
-      "date": "20260728",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
+    "MAYJ|235464|20260730|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "02:05 PM",
+      "date": "20260730",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
+      "status": "3"
     },
-    "PVPZ|35896|20260728|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "04:05 PM",
-      "date": "20260728",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
+    "MAYJ|235465|20260730|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "05:10 PM",
+      "date": "20260730",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
+      "status": "3"
     },
-    "PVPZ|35897|20260728|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "07:40 PM",
-      "date": "20260728",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
+    "MAYJ|235466|20260730|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "08:15 PM",
+      "date": "20260730",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
+      "status": "3"
     },
-    "PVPZ|35898|20260728|ELITE": {
-      "venue": "PVR: Palazzo, The Nexus Vijaya Mall",
-      "time": "11:15 PM",
-      "date": "20260728",
-      "cat": "ELITE",
-      "price": "508.34",
-      "status": "2"
+    "MAYJ|235467|20260730|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "11:55 PM",
+      "date": "20260730",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
+      "status": "3"
+    },
+    "MAYJ|235488|20260731|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "11:00 AM",
+      "date": "20260731",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
+      "status": "3"
+    },
+    "MAYJ|235489|20260731|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "02:05 PM",
+      "date": "20260731",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
+      "status": "3"
+    },
+    "MAYJ|235490|20260731|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "05:10 PM",
+      "date": "20260731",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
+      "status": "3"
+    },
+    "MAYJ|235491|20260731|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "08:15 PM",
+      "date": "20260731",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
+      "status": "3"
+    },
+    "MAYJ|235492|20260731|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "11:55 PM",
+      "date": "20260731",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
+      "status": "3"
+    },
+    "MAYJ|235493|20260801|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "11:00 AM",
+      "date": "20260801",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
+      "status": "3"
+    },
+    "MAYJ|235494|20260801|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "02:05 PM",
+      "date": "20260801",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
+      "status": "3"
+    },
+    "MAYJ|235495|20260801|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "05:10 PM",
+      "date": "20260801",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
+      "status": "3"
+    },
+    "MAYJ|235496|20260801|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "08:15 PM",
+      "date": "20260801",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
+      "status": "3"
+    },
+    "MAYJ|235497|20260801|FIRST CLASS": {
+      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
+      "time": "11:55 PM",
+      "date": "20260801",
+      "cat": "FIRST CLASS",
+      "price": "211.00",
+      "status": "3"
     }
   },
   "dates": {
-    "20260726": "BOOKABLE",
-    "20260727": "AVAILABLE",
-    "20260728": "AVAILABLE",
-    "20260729": "AVAILABLE",
-    "20260730": "NOT_OPEN",
-    "20260731": "NOT_OPEN",
-    "20260801": "NOT_OPEN"
+    "20260730": "AVAILABLE",
+    "20260731": "AVAILABLE",
+    "20260801": "BOOKABLE",
+    "20260802": "AVAILABLE",
+    "20260803": "NOT_OPEN",
+    "20260804": "NOT_OPEN",
+    "20260805": "NOT_OPEN"
   }
 }

@@ -1,45 +1,5 @@
 {
   "shows": {
-    "MAYJ|235463|20260730|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "11:00 AM",
-      "date": "20260730",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "3"
-    },
-    "MAYJ|235464|20260730|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "02:05 PM",
-      "date": "20260730",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "3"
-    },
-    "MAYJ|235465|20260730|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "05:10 PM",
-      "date": "20260730",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "3"
-    },
-    "MAYJ|235466|20260730|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "08:15 PM",
-      "date": "20260730",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "3"
-    },
-    "MAYJ|235467|20260730|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "11:55 PM",
-      "date": "20260730",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "3"
-    },
     "MAYJ|235493|20260801|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "11:00 AM",

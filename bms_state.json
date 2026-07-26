@@ -1,121 +1,41 @@
 {
   "shows": {
-    "MAYJ|235463|20260730|FIRST CLASS": {
+    "MAYJ|235493|20260801|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "11:00 AM",
-      "date": "20260730",
+      "date": "20260801",
       "cat": "FIRST CLASS",
       "price": "211.00",
       "status": "3"
     },
-    "MAYJ|235464|20260730|FIRST CLASS": {
+    "MAYJ|235494|20260801|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "02:05 PM",
-      "date": "20260730",
+      "date": "20260801",
       "cat": "FIRST CLASS",
       "price": "211.00",
       "status": "3"
     },
-    "MAYJ|235465|20260730|FIRST CLASS": {
+    "MAYJ|235495|20260801|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "05:10 PM",
-      "date": "20260730",
+      "date": "20260801",
       "cat": "FIRST CLASS",
       "price": "211.00",
       "status": "3"
     },
-    "MAYJ|235466|20260730|FIRST CLASS": {
+    "MAYJ|235496|20260801|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "08:15 PM",
-      "date": "20260730",
+      "date": "20260801",
       "cat": "FIRST CLASS",
       "price": "211.00",
       "status": "3"
     },
-    "MAYJ|235467|20260730|FIRST CLASS": {
+    "MAYJ|235497|20260801|FIRST CLASS": {
       "venue": "MAYAJAAL Multiplex: ECR, Chennai",
       "time": "11:55 PM",
-      "date": "20260730",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "3"
-    },
-    "MAYJ|235488|20260731|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "11:00 AM",
-      "date": "20260731",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "3"
-    },
-    "MAYJ|235489|20260731|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "02:05 PM",
-      "date": "20260731",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "3"
-    },
-    "MAYJ|235490|20260731|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "05:10 PM",
-      "date": "20260731",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "3"
-    },
-    "MAYJ|235491|20260731|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "08:15 PM",
-      "date": "20260731",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "3"
-    },
-    "MAYJ|235492|20260731|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "11:55 PM",
-      "date": "20260731",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "3"
-    },
-    "MAYJ|235498|20260802|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "11:00 AM",
-      "date": "20260802",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "3"
-    },
-    "MAYJ|235499|20260802|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "02:05 PM",
-      "date": "20260802",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "3"
-    },
-    "MAYJ|235500|20260802|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "05:10 PM",
-      "date": "20260802",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "3"
-    },
-    "MAYJ|235501|20260802|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "08:15 PM",
-      "date": "20260802",
-      "cat": "FIRST CLASS",
-      "price": "211.00",
-      "status": "3"
-    },
-    "MAYJ|235502|20260802|FIRST CLASS": {
-      "venue": "MAYAJAAL Multiplex: ECR, Chennai",
-      "time": "11:55 PM",
-      "date": "20260802",
+      "date": "20260801",
       "cat": "FIRST CLASS",
       "price": "211.00",
       "status": "3"
@@ -124,8 +44,8 @@
   "dates": {
     "20260730": "AVAILABLE",
     "20260731": "AVAILABLE",
-    "20260801": "AVAILABLE",
-    "20260802": "BOOKABLE",
+    "20260801": "BOOKABLE",
+    "20260802": "AVAILABLE",
     "20260803": "NOT_OPEN",
     "20260804": "NOT_OPEN",
     "20260805": "NOT_OPEN"

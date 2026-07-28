@@ -79,13 +79,53 @@
       "cat": "Premium+3D",
       "price": "300.00",
       "status": "1"
+    },
+    "RAKK|1471|20260802|Premium+3D": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "09:00 AM",
+      "date": "20260802",
+      "cat": "Premium+3D",
+      "price": "300.00",
+      "status": "1"
+    },
+    "RAKK|1472|20260802|Premium+3D": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "12:15 PM",
+      "date": "20260802",
+      "cat": "Premium+3D",
+      "price": "300.00",
+      "status": "1"
+    },
+    "RAKK|1473|20260802|Premium+3D": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "03:30 PM",
+      "date": "20260802",
+      "cat": "Premium+3D",
+      "price": "300.00",
+      "status": "1"
+    },
+    "RAKK|1474|20260802|Premium+3D": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "07:00 PM",
+      "date": "20260802",
+      "cat": "Premium+3D",
+      "price": "300.00",
+      "status": "1"
+    },
+    "RAKK|1475|20260802|Premium+3D": {
+      "venue": "Rakki Cinemas: OMR, Kelambakkam",
+      "time": "10:30 PM",
+      "date": "20260802",
+      "cat": "Premium+3D",
+      "price": "300.00",
+      "status": "1"
     }
   },
   "dates": {
     "20260730": "AVAILABLE",
     "20260731": "AVAILABLE",
-    "20260801": "BOOKABLE",
-    "20260802": "AVAILABLE",
+    "20260801": "AVAILABLE",
+    "20260802": "BOOKABLE",
     "20260803": "AVAILABLE",
     "20260804": "AVAILABLE",
     "20260805": "AVAILABLE",

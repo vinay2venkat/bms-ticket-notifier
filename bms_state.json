@@ -1,13 +1,5 @@
 {
   "shows": {
-    "RAKK|1458|20260730|Premium+3D": {
-      "venue": "Rakki Cinemas: OMR, Kelambakkam",
-      "time": "03:30 PM",
-      "date": "20260730",
-      "cat": "Premium+3D",
-      "price": "300.00",
-      "status": "0"
-    },
     "RAKK|1459|20260730|Premium+3D": {
       "venue": "Rakki Cinemas: OMR, Kelambakkam",
       "time": "07:00 PM",
@@ -23,46 +15,6 @@
       "cat": "Premium+3D",
       "price": "300.00",
       "status": "0"
-    },
-    "RAKK|1461|20260731|Premium+3D": {
-      "venue": "Rakki Cinemas: OMR, Kelambakkam",
-      "time": "09:00 AM",
-      "date": "20260731",
-      "cat": "Premium+3D",
-      "price": "300.00",
-      "status": "1"
-    },
-    "RAKK|1462|20260731|Premium+3D": {
-      "venue": "Rakki Cinemas: OMR, Kelambakkam",
-      "time": "12:15 PM",
-      "date": "20260731",
-      "cat": "Premium+3D",
-      "price": "300.00",
-      "status": "1"
-    },
-    "RAKK|1463|20260731|Premium+3D": {
-      "venue": "Rakki Cinemas: OMR, Kelambakkam",
-      "time": "03:30 PM",
-      "date": "20260731",
-      "cat": "Premium+3D",
-      "price": "300.00",
-      "status": "1"
-    },
-    "RAKK|1464|20260731|Premium+3D": {
-      "venue": "Rakki Cinemas: OMR, Kelambakkam",
-      "time": "07:00 PM",
-      "date": "20260731",
-      "cat": "Premium+3D",
-      "price": "300.00",
-      "status": "1"
-    },
-    "RAKK|1465|20260731|Premium+3D": {
-      "venue": "Rakki Cinemas: OMR, Kelambakkam",
-      "time": "10:30 PM",
-      "date": "20260731",
-      "cat": "Premium+3D",
-      "price": "300.00",
-      "status": "1"
     },
     "RAKK|1466|20260801|Premium+3D": {
       "venue": "Rakki Cinemas: OMR, Kelambakkam",

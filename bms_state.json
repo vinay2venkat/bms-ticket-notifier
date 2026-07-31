@@ -1,13 +1,5 @@
 {
   "shows": {
-    "RAKK|1462|20260731|Premium+3D": {
-      "venue": "Rakki Cinemas: OMR, Kelambakkam",
-      "time": "12:15 PM",
-      "date": "20260731",
-      "cat": "Premium+3D",
-      "price": "300.00",
-      "status": "1"
-    },
     "RAKK|1463|20260731|Premium+3D": {
       "venue": "Rakki Cinemas: OMR, Kelambakkam",
       "time": "03:30 PM",
@@ -120,6 +112,13 @@
     "20260803": "AVAILABLE",
     "20260804": "AVAILABLE",
     "20260805": "AVAILABLE",
-    "20260806": "AVAILABLE"
+    "20260806": "AVAILABLE",
+    "20260807": "AVAILABLE",
+    "20260808": "AVAILABLE",
+    "20260809": "AVAILABLE",
+    "20260810": "AVAILABLE",
+    "20260811": "AVAILABLE",
+    "20260812": "AVAILABLE",
+    "20260813": "AVAILABLE"
   }
 }
